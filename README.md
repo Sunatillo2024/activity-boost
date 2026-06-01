@@ -562,3 +562,4 @@ Chess update 2026-05-31
 Chess update 2026-05-31
 Chess update 2026-05-31
 Chess update 2026-06-01
+Chess update 2026-06-01
