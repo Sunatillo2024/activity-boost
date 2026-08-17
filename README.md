@@ -678,3 +678,4 @@ Chess update 2026-08-13
 Chess update 2026-08-15
 Chess update 2026-08-15
 Chess update 2026-08-15
+Chess update 2026-08-17
